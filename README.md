@@ -19,7 +19,7 @@ Criar um conjunto de ferramentas, técnicas e *macetes* para tornar a arte de co
 
 1. **Leia os Termos de Uso**
 
-   se você é preguiçoso(a), é só não ser X9.
+   * se você é preguiçoso(a), é só não ser X9.
 
 2. **Escolha sua ferramenta de trapaça (digo, *sobrevivência*)**
 
