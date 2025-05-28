@@ -44,7 +44,7 @@ Este projeto NÃO incentiva a trapaça real. A proposta é satírica e serve ape
 
 ## 🤝 Contribua
 
-Tem uma nova ideia genial de cola? Abra uma *issue*. Estamos sempre abertos a "melhorias educacionais".
+Tem uma nova ideia genial de cola ou achou um problema? Abra uma *issue*. Estamos sempre abertos a "melhorias educacionais".
 
 ---
 
