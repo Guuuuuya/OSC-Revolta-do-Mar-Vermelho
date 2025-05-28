@@ -28,3 +28,6 @@ https://github.com/mcavalca/uri-python/tree/master
 
 beecrowd - potigol
 https://github.com/potigol/beecrowd/tree/master
+
+beecrowd - Luc4sguilherme
+https://github.com/Luc4sguilherme/beecrowd/tree/master
