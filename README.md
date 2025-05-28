@@ -1,5 +1,4 @@
 # OSC-Revolta-do-Mar-Vermelho
-# Projeto: **Revolta-do-Mar-Vermelho**
 
 ### Facilite sua vida na sala do Professor Moisés 🕵️‍♂️📚
 
