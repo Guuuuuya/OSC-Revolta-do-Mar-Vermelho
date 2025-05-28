@@ -31,3 +31,6 @@ https://github.com/potigol/beecrowd/tree/master
 
 beecrowd - Luc4sguilherme
 https://github.com/Luc4sguilherme/beecrowd/tree/master
+
+beecrowd-problems-solutions - ShawonBarman
+https://github.com/ShawonBarman/beecrowd-problems-solutions/tree/main
