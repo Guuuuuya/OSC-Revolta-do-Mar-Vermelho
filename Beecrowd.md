@@ -34,3 +34,6 @@ https://github.com/Luc4sguilherme/beecrowd/tree/master
 
 beecrowd-problems-solutions - ShawonBarman
 https://github.com/ShawonBarman/beecrowd-problems-solutions/tree/main
+
+beecrowd-solutions - diegoborbadev
+https://github.com/diegoborbadev/beecrowd-solutions
