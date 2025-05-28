@@ -24,9 +24,20 @@ Criar um conjunto de ferramentas, técnicas e *macetes* para tornar a arte de co
 2. **Escolha sua ferramenta de trapaça (digo, *sobrevivência*)**
 
    * Veja o markdown `Beecrowd.md`
-   * Se vira a partir daí fdp kkkkk
+   * Ache um repositório com a sua resposta de escolha
 
-3. **Use com sabedoria e discrição**
+3. **Ache a resposta no repositório/site**
+
+   * Pesquise o ID da atividade no repositório/site
+   * Copie o código
+
+4. **Transforme na linguagem de programação de escolha**
+
+   * Use sua IA de escolha
+   * Cole o código
+   * adicione "IN (linguagem de programação)"
+
+5. **Use com sabedoria e discrição**
 
    * Lembre-se: o Moisés pode não ser Deus, mas enxerga tudo
 
